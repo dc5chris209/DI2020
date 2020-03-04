@@ -1,0 +1,23 @@
+.     |___________________________________
+|-----|- - -|''''|''''|''''|''''|''''|'##\|__
+|- -  |  cc 6    5    4    3    2    1 ### __]==----------------------
+|-----|________________________________##/|
+'cjv  |"""""""""""""""""""""""""""""""""""`
+
+Here are the latest Global Results as of February 25, 2020
+
+US Cases
+
+US States With Confirmed Cases: Arizona, California, Florida, Illinois, Massachusetts, Nebraska, New York, Oregon, Rhode Island, Texas, Washington, Wisconsin
+States Impacted: 12
+Total Cases Reported: 43
+Total Hospitalized: 17
+Total Deaths: 6
+
+
+Global Cases
+
+Countries With Confirmed Cases: Africa (Algeria, Nigeria); Americas (Brazil, Canada, Dominican Republic, Ecuador, Mexico, United States), Eastern Mediterranean (Afghanistan, Bahrain, Egypt, Iran, Iraq, Kuwait, Lebanon, Oman, Pakistan, Qatar, United Arab Emirates); Europe (Armenia, Austria, Azerbaijan, Belarus, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, Georgia, Germany, Greece, Iceland, Ireland, Israel, Italy, Lithuania, Monaco, Netherlands, North Macedonia, Norway, Romania, Russia, San Marino, Spain, Sweden, Switzerland, United Kingdom); South East Asia (India, Nepal, Sri Lanka, Thailand); Western Pacific (Australia, Cambodia, China, Hong Kong, Indonesia, Japan, Macau, Malaysia, New Zealand, Philippines, Republic of Korea, Singapore, Taiwan, Vietnam)
+Countries Impacted: 66
+Total Global Cases Reported: 87,137
+Total Deaths: 2,977
